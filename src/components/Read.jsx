@@ -2,7 +2,6 @@ import axios from 'axios';
 import React, { useState ,useEffect } from 'react'
 import { Link, useParams } from 'react-router-dom'
 
-
 function Read() {
   const [data , setData] = useState([])
   const {id} = useParams();
