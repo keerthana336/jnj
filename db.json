@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "username": "kayalvizhi",
+      "email": "kayal@gmail.com",
+      "phone": "5656233287",
+      "id": "1"
+    },
+    {
+      "username": " keerthi",
+      "email": "keerthi@gmail.com",
+      "phone": " 6381411101",
+      "id": "2"
+    },
+    {
+      "username": "metlin",
+      "email": "metlin@gmail.com",
+      "phone": "8585662365",
+      "id": "4"
+    },
+    {
+      "username": "sheela",
+      "email": "sheela@gmail.com",
+      "phone": "554551",
+      "id": "fbe2"
+    },
+    {
+      "username": "rohini",
+      "email": "rohini@gmail.com",
+      "phone": "957892586",
+      "id": "f8f8"
+    },
+    {
+      "id": "2923",
+      "username": "sai",
+      "email": "sai@gmail.com",
+      "phone": "8667022"
+    },
+    {
+      "username": "kanmani",
+      "email": "jhjh@gmail.com",
+      "phone": "56454",
+      "id": "30bc"
+    },
+    {
+      "username": "dww",
+      "email": "q@gmail.com",
+      "phone": "797965655",
+      "id": "af4b"
+    },
+    {
+      "id": "fa2e",
+      "username": "kanmani",
+      "email": "ka@gmail.com",
+      "phone": "7785655655"
+    }
+  ]
+}
